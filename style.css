@@ -1,0 +1,13 @@
+.head{
+    text-align:center;
+}
+
+.body{
+    display:flex;
+    justify-content: space-around;
+}
+
+img:hover{
+    box-shadow: 0px 10px 30px rgba(37,50,233,1);
+    
+}
